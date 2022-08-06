@@ -17,7 +17,7 @@ There will be notes and annotations and possible links to more information about
 | [a](#a) | http://www.w3.org/2005/Atom |
 | [a10](#a10) | http://www.w3.org/2005/Atom |
 | [ab](#ab) | http://aftonbladet.se/ |
-| [acast](#acast) | https://schema.acast.com/1.0/ |
+| [acast](./namespaces/acast-podaccess.md) | https://schema.acast.com/1.0/ |
 | [access](#access) | http://www.bloglines.com/about/specs/fac-1.0 |
 | [addthis](#addthis) | https://www.addthis.com/help/api-spec |
 | [admin](#admin) | http://webns.net/mvcb/ |
@@ -256,7 +256,7 @@ There will be notes and annotations and possible links to more information about
 | [plfile](#plfile) | http://xml.theplatform.com/media/data/MediaFile |
 | [pllist](#pllist) | http://xml.theplatform.com/data/list |
 | [plmedia](#plmedia) | http://xml.theplatform.com/media/data/Media |
-| [podaccess](#podaccess) | https://schema-access.acast.com/1.0/ |
+| [podaccess](./namespaces/acast-podaccess.md) | https://schema-access.acast.com/1.0/ |
 | [podapi](#podapi) | https://www.podapi.xyz/dtds/podapi-1.0.dtd |
 | [podbridge](#podbridge) | http://www.podbridge.com/podbridge-ad.dtd |
 | [podcast](#podcast) | https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md |
