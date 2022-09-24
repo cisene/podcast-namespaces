@@ -1,4 +1,4 @@
-# RSS-Namespaces
+# Podcast RSS-Namespaces
 
 This focuses on RSS Namespaces in a podcast context. Some of these namespaces may also be observed in regular RSS feeds for blogs and similar.
 
